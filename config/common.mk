@@ -137,7 +137,7 @@ PRODUCT_PACKAGES += \
     libemoji
 
 # Custom CM packages
-    #Trebuchet \
+    #Trebuchet
 
 PRODUCT_PACKAGES += \
     Launcher3 \
@@ -147,10 +147,7 @@ PRODUCT_PACKAGES += \
     CMWallpapers \
     Apollo \
     CMFileManager \
-    LockClock \
-    CMUpdater \
-    CMFota \
-    CMAccount
+    LockClock
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
